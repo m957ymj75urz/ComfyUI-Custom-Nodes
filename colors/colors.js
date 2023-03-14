@@ -1,4 +1,4 @@
-import { app } from "../scripts/app.js";
+import { app } from "/scripts/app.js";
 
 // use HSL color space to generate a different color for each keys
 function generateColors(keys, S, L, Hmin = 0, Hmax = 360) {
